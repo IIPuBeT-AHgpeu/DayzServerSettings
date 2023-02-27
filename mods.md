@@ -70,7 +70,7 @@
 > Ссылка: https://steamcommunity.com/sharedfiles/filedetails/?id=1999076953
 > 
 > Описание: ползволяет оставлять записки (не пользовался пока, не знаю толком как работает).
-5. ### RepaireRadiator ###
+6. ### RepaireRadiator ###
 > Ссылка: https://steamcommunity.com/sharedfiles/filedetails/?id=1999076953
 > 
 > Описание: позволяет чинить радиатор эпоксидкой.

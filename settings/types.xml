@@ -1,2540 +1,2528 @@
 <!-- MODS -->
 <!-- ---------------------------------------------------------------------------------------------------- -->
-	<!-- BMW -->
-	  <type name="CrSk_BMW_525i_E34">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	  </type>
-    <type name="CrSk_BMW_525i_E34_Red">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CrSk_BMW_525i_E34_Black">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CrSk_BMW_525i_E34_Beater">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CrSk_BMW_525i_E34_Purple">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="BMWE34_kapot">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_bagazhnik">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		<usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_1_1">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_1">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		<usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_dver_1_2">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_2">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_kapot_red">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_bagazhnik_red">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_1_1_red">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_1_red">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_dver_1_2_red">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_2_red">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_kapot_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_bagazhnik_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_1_1_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_1_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_dver_1_2_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_2_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_kapot_beater">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_bagazhnik_beater">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_1_1_beater">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_1_beater">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	    <type name="BMWE34_dver_1_2_beater">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_2_beater">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_kapot_Purple">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_bagazhnik_Purple">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_1_1_Purple">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_1_Purple">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_dver_1_2_Purple">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="BMWE34_dver_2_2_Purple">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_style5">
-        <nominal>40</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_style5_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="BMWE34_koleso_style2">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_style2_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="BMWE34_koleso_style16">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_style16_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="BMWE34_koleso_style21">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_style21_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="BMWE34_koleso_style21_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_style21_black_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="BMWE34_koleso_style37">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_style37_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="BMWE34_koleso_shtamp">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_shtamp_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="BMWE34_koleso_shtamp_black">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="BMWE34_koleso_shtamp_black_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	<!-- BMW -->
-	
-	<!-- 2107 -->	
-    <type name="CrSk_VAZ_2107">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="CrSk_VAZ_2107_Black">
-          <nominal>0</nominal>
-          <lifetime>3888000</lifetime>
-          <restock>0</restock>
-          <min>0</min>
-          <quantmin>-1</quantmin>
-          <quantmax>-1</quantmax>
-          <cost>100</cost>
-          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-     </type>
-    <type name="CrSk_VAZ_2107_Beige">
-          <nominal>0</nominal>
-          <lifetime>3888000</lifetime>
-          <restock>0</restock>
-          <min>0</min>
-          <quantmin>-1</quantmin>
-          <quantmax>-1</quantmax>
-          <cost>100</cost>
-          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-     </type>
-    <type name="CrSk_VAZ_2107_White">
-          <nominal>0</nominal>
-          <lifetime>3888000</lifetime>
-          <restock>0</restock>
-          <min>0</min>
-          <quantmin>-1</quantmin>
-          <quantmax>-1</quantmax>
-          <cost>100</cost>
-          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-     </type>
-     <type name="VAZ2107_kapot">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-     </type>
-     <type name="VAZ2107_bagazhnik">
-          <nominal>8</nominal>
-          <lifetime>2700</lifetime>
-          <restock>0</restock>
-          <min>5</min>
-          <quantmin>-1</quantmin>
-          <quantmax>-1</quantmax>
-          <cost>100</cost>
-          <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-          <category name="vehiclesparts"/>
-          <tag name="floor"/>
-          <usage name="Industrial"/>
-          <usage name="Farm"/>
-      </type>
-    <type name="VAZ2107_dver_1_1">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="VAZ2107_dver_2_1">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_1_2">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="VAZ2107_dver_2_2">
-        <nominal>8</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_kapot_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_bagazhnik_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_1_1_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_2_1_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_1_2_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_2_2_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="VAZ2107_kapot_Beige">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_bagazhnik_Beige">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_1_1_Beige">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_2_1_Beige">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_1_2_Beige">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		<usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_2_2_Beige">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_kapot_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_bagazhnik_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_1_1_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_2_1_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_1_2_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_dver_2_2_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		    <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		<usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_koleso">
-        <nominal>40</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-		    <usage name="Farm"/>
-    </type>
-	  <type name="VAZ2107_koleso_destroyed">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>	
-	<!-- 2107 -->
-	
-	<!-- UAZ -->
-    <type name="TF_UAZ3151_Green">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-	  <type name="TF_UAZ3151_Wheel">
-        <nominal>40</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>30</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>	
-	  <type name="TF_UAZ3151_Wheel_Destruct">
-        <lifetime>1800</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>	
-	  <type name="TF_UAZ3151_Doors_Driver_Green">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_CoDriver_Green">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo1_Green">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo2_Green">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>        
-    <type name="TF_UAZ3151_Doors_Hood_Green">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Trunk_Green">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-	
-	  <type name="TF_UAZ3151_ChDKZ">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>	
-	  <type name="TF_UAZ3151_Doors_Driver_ChDKZ">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_CoDriver_ChDKZ">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo1_ChDKZ">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo2_ChDKZ">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>        
-    <type name="TF_UAZ3151_Doors_Hood_ChDKZ">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Trunk_ChDKZ">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>	
-	
-	  <type name="TF_UAZ3151_CDF">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-	  <type name="TF_UAZ3151_AFRF">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>  			    
-    <type name="TF_UAZ3151_Doors_Driver_CDF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_CoDriver_CDF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo1_CDF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo2_CDF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>        
-    <type name="TF_UAZ3151_Doors_Hood_CDF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Trunk_CDF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>	
-    <type name="TF_UAZ3151_Doors_Driver_AFRF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_CoDriver_AFRF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo1_AFRF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Cargo2_AFRF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>        
-    <type name="TF_UAZ3151_Doors_Hood_AFRF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="TF_UAZ3151_Doors_Trunk_AFRF">
-        <nominal>8</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <usage name="Industrial"/>
-    </type>	
-	<!-- UAZ -->
-	
-	<!-- MH6 -->
-    <type name="Helipolice_green">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-	  <type name="Helipolice_SIB4">
-      <nominal>0</nominal>
-      <lifetime>3888000</lifetime>
-      <restock>0</restock>
-      <min>0</min>
-      <quantmin>-1</quantmin>
-      <quantmax>-1</quantmax>
-      <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-	<!-- MH6 -->
-	
-	<!-- Furnitures -->
-	  <type name="mmg_grenade_case_green">
-        <nominal>2</nominal>
-        <lifetime>864000</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-    </type>
-	  <type name="mmg_gun_rack_kit_blue">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Military"/>
-    </type>
-    <type name="mmg_gun_rack_blue">
-        <lifetime>864000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	  <type name="mmg_gun_rack_kit_green">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Military"/>
-    </type>
-    <type name="mmg_gun_rack_green">
-        <lifetime>864000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	  <type name="mmg_gun_rack_kit_tan">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Military"/>
-    </type>
-    <type name="mmg_gun_rack_tan">
-        <lifetime>864000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	  <type name="mmg_gun_rack_planks">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Military"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="mmg_craftable_gun_rack">
-        <lifetime>864000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	  <type name="mmg_gun_wall_kit_wooden">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Military"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="mmg_gun_wall_wooden">
-        <lifetime>864000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	  <type name="mmg_gun_wall_kit_metal">
-        <nominal>1</nominal>
-        <lifetime>14400</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-        <usage name="Military"/>
-		    <usage name="Farm"/>
-    </type>
-    <type name="mmg_gun_wall_metal">
-        <lifetime>864000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	  <type name="mmg_palette_storage">
-        <lifetime>864000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-	<!-- Furnitures -->
-	
-	<!-- WEAPONS -->
-	
-	<!-- AMMO -->
-	  <type name="SNAFU_Ammo_338">
-        <nominal>20</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>10</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="GCGN_Ammo_3006">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_Ammo_300ACC">
-        <nominal>50</nominal>
-        <lifetime>14400</lifetime>
-        <restock>180</restock>
-        <min>25</min>
-        <quantmin>30</quantmin>
-        <quantmax>100</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="Military"/>
-		    <value name="Tier2"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-    </type>
-	  <type name="SNAFU_Ammo_127x55mm">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_Ammo_45_70mm">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_Ammo_300ACC">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_Ammo_408Chey">
-		    <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_Ammo_50Cal">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- AMMO -->
-	
-	<!-- MAGS -->
-	  <type name="SNAFUM24_Mag">
-        <nominal>2</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>0</quantmin>
-        <quantmax>100</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFU_AK12_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_AK308_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_PL14HQP_Mag">
-        <nominal>15</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>10</quantmin>
-        <quantmax>100</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFU_M1918A2_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_KAC_Mag">
-        <nominal>10</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>4</min>
-        <quantmin>5</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFUVSSK_5rdMag">
-        <nominal>0</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_U100_Mag">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>5</quantmin>
-        <quantmax>40</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-		    <usage name="ContaminatedArea"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFURPD_100rdMag">
-        <nominal>5</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>5</quantmin>
-        <quantmax>40</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-		    <usage name="ContaminatedArea"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="GCGN_VEPR_10rnd">
-        <nominal>30</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>15</min>
-        <quantmin>10</quantmin>
-        <quantmax>90</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="Snafu_ScarH_25RND_Mag_BK">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Snafu_ScarH_25RND_Mag_DKMC">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Snafu_ScarH_25RND_Mag_OD">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Snafu_ScarH_25RND_Mag_Snow">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Snafu_ScarH_25RND_Mag_Tan">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_M110_Mag">
-        <nominal>5</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>2</min>
-        <quantmin>10</quantmin>
-        <quantmax>90</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFUHoneyBadger_30rdMag_Black">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="SNAFUHoneyBadger_30rdMag_Tan">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUAPS_20rdMag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- ########################################## -->	
-	  <type name="SNAFU_M60_100rdMag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- ########################################## -->	
-	  <type name="SNAFUAlligator_5rdMag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_AWM_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUDVL10M2_5rdMag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUT5000_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_M300Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUASh12_20rdMag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_M82_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="Snafu_pkp_250RND_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_M249_Mag">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- MAGS -->
-	
-	<!-- ADDITIONALS -->
-	  <type name="SNAFU_Bipod">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-    </type>
-	  <type name="SNAFUKivaari_338_Supp">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-	  <type name="SNAFU_AK_HG">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- ########################################## -->	
-	  <type name="SNAFU_M60_ScopeMount">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_M60_Handguard_E4">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- ########################################## -->	
-	  <type name="SNAFU_NPKPBIPOD">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_M249Bipod">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_M249HG">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_M249Grip">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_M249Stock">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- ADDITIONALS -->
-	
-	<!-- GUNS -->
-	  <type name="SNAFUM24_GUN">
-        <nominal>3</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-    </type>
-	  <type name="GCGN_BenelliM4">
-        <nominal>4</nominal>
-		    <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-		    <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFU_AK103A">
-        <nominal>1</nominal>
-        <lifetime>28800</lifetime>
-        <restock>3600</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFU_AK12A">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-    </type>
-	  <type name="SNAFU_AK19">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_AK308">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_AEK545_Gun">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_PL14HQP">
-        <nominal>5</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="Police"/>
-		    <value name="Tier3"/>
-		    <value name="Tier4"/>
-    </type>
-	  <type name="SNAFU_CZ805_Gun">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-    </type>	
-    <type name="SNAFU_M1918A2">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_KAC_Gun">
-        <nominal>5</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFUVSSK">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFURPD">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_U100">
-        <nominal>1</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-	  <type name="SNAFUMarlin1895">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="HK416_Gun">
-        <nominal>3</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFUMk12">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_VEPR">
-        <nominal>20</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>8</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFU_M48">
-        <nominal>45</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>30</min>
-        <quantmin>0</quantmin>
-        <quantmax>80</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="Snafu_ScarH_Black_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Snafu_ScarH_DKMC_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Snafu_ScarH_OD_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="Snafu_ScarH_Snow_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="Snafu_ScarH_Tan_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_M110_Green">
-        <nominal>2</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	  <type name="SNAFUHoneyBadger_Black">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-    <type name="SNAFUHoneyBadger_Tan">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUAPS">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- ########################################## -->	
-	  <type name="SNAFU_M60">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- ########################################## -->
-	  <type name="SNAFUAlligator">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_AWM_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUDVL10M2">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUT5000_Dkmcc_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFU_M300Green">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="SNAFUASh12">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_M82_Barret">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="Snafu_pkp_Black_GUN">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	  <type name="GCGN_M249">
-        <nominal>0</nominal>
-        <restock>1800</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-    </type>
-	<!-- GUNS -->
-	
-	<!-- WEAPONS -->
+<!-- BMW -->
+<type name="CrSk_BMW_525i_E34">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="CrSk_BMW_525i_E34_Red">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="CrSk_BMW_525i_E34_Black">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="CrSk_BMW_525i_E34_Beater">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="CrSk_BMW_525i_E34_Purple">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="BMWE34_kapot">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_bagazhnik">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_1">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_1">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_2">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_2">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_kapot_red">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_bagazhnik_red">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_1_red">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_1_red">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_2_red">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_2_red">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_kapot_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_bagazhnik_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_1_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_1_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_2_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_2_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_kapot_beater">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_bagazhnik_beater">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_1_beater">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_1_beater">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_2_beater">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_2_beater">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_kapot_Purple">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_bagazhnik_Purple">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_1_Purple">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_1_Purple">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_1_2_Purple">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_dver_2_2_Purple">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_style5">
+	<nominal>40</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_style5_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="BMWE34_koleso_style2">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_style2_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="BMWE34_koleso_style16">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_style16_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="BMWE34_koleso_style21">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_style21_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="BMWE34_koleso_style21_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_style21_black_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="BMWE34_koleso_style37">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_style37_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="BMWE34_koleso_shtamp">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_shtamp_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="BMWE34_koleso_shtamp_black">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="BMWE34_koleso_shtamp_black_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<!-- BMW -->
+<!-- 2107 -->
+<type name="CrSk_VAZ_2107">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="CrSk_VAZ_2107_Black">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="CrSk_VAZ_2107_Beige">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="CrSk_VAZ_2107_White">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="VAZ2107_kapot">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_bagazhnik">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_1">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_1">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_2">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_2">
+	<nominal>8</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_kapot_White">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_bagazhnik_White">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_1_White">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_1_White">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_2_White">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_2_White">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_kapot_Beige">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_bagazhnik_Beige">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_1_Beige">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_1_Beige">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_2_Beige">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_2_Beige">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_kapot_Black">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_bagazhnik_Black">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_1_Black">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_1_Black">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_1_2_Black">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_dver_2_2_Black">
+	<nominal>0</nominal>
+	<lifetime>2700</lifetime>
+	<restock>1800</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_koleso">
+	<nominal>40</nominal>
+	<lifetime>2700</lifetime>
+	<restock>0</restock>
+	<min>5</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="VAZ2107_koleso_destroyed">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<!-- 2107 -->
+<!-- UAZ -->
+<type name="TF_UAZ3151_Green">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="TF_UAZ3151_Wheel">
+	<nominal>40</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>30</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Wheel_Destruct">
+	<lifetime>1800</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="TF_UAZ3151_Doors_Driver_Green">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_CoDriver_Green">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo1_Green">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo2_Green">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Hood_Green">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Trunk_Green">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_ChDKZ">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="TF_UAZ3151_Doors_Driver_ChDKZ">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_CoDriver_ChDKZ">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo1_ChDKZ">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo2_ChDKZ">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Hood_ChDKZ">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Trunk_ChDKZ">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_CDF">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="TF_UAZ3151_AFRF">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="TF_UAZ3151_Doors_Driver_CDF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_CoDriver_CDF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo1_CDF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo2_CDF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Hood_CDF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Trunk_CDF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Driver_AFRF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_CoDriver_AFRF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo1_AFRF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Cargo2_AFRF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Hood_AFRF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<type name="TF_UAZ3151_Doors_Trunk_AFRF">
+	<nominal>8</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="vehiclesparts"/>
+	<usage name="Industrial"/>
+</type>
+<!-- UAZ -->
+<!-- MH6 -->
+<type name="Helipolice_green">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Helipolice_SIB4">
+	<nominal>0</nominal>
+	<lifetime>3888000</lifetime>
+	<restock>0</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<!-- MH6 -->
+<!-- Furnitures -->
+<type name="mmg_grenade_case_green">
+	<nominal>2</nominal>
+	<lifetime>864000</lifetime>
+	<restock>7200</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="tools"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Farm"/>
+</type>
+<type name="mmg_gun_rack_kit_blue">
+	<nominal>1</nominal>
+	<lifetime>14400</lifetime>
+	<restock>7200</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="tools"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Military"/>
+</type>
+<type name="mmg_gun_rack_blue">
+	<lifetime>864000</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="mmg_gun_rack_kit_green">
+	<nominal>1</nominal>
+	<lifetime>14400</lifetime>
+	<restock>7200</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="tools"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Military"/>
+</type>
+<type name="mmg_gun_rack_green">
+	<lifetime>864000</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="mmg_gun_rack_kit_tan">
+	<nominal>1</nominal>
+	<lifetime>14400</lifetime>
+	<restock>7200</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="tools"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Military"/>
+</type>
+<type name="mmg_gun_rack_tan">
+	<lifetime>864000</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="mmg_gun_rack_planks">
+	<nominal>5</nominal>
+	<lifetime>14400</lifetime>
+	<restock>7200</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="tools"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Military"/>
+	<usage name="Farm"/>
+</type>
+<type name="mmg_craftable_gun_rack">
+	<lifetime>864000</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="mmg_gun_wall_kit_wooden">
+	<nominal>1</nominal>
+	<lifetime>14400</lifetime>
+	<restock>7200</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="tools"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Military"/>
+	<usage name="Farm"/>
+</type>
+<type name="mmg_gun_wall_wooden">
+	<lifetime>864000</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="mmg_gun_wall_kit_metal">
+	<nominal>1</nominal>
+	<lifetime>14400</lifetime>
+	<restock>7200</restock>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="tools"/>
+	<tag name="floor"/>
+	<usage name="Industrial"/>
+	<usage name="Military"/>
+	<usage name="Farm"/>
+</type>
+<type name="mmg_gun_wall_metal">
+	<lifetime>864000</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+</type>
+<type name="mmg_palette_storage">
+	<lifetime>864000</lifetime>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<!-- Furnitures -->
+<!-- WEAPONS -->
+<!-- AMMO -->
+<type name="SNAFU_Ammo_338">
+	<nominal>20</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>10</quantmin>
+	<quantmax>80</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier4"/>
+</type>
+<type name="GCGN_Ammo_3006">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_Ammo_300ACC">
+	<nominal>50</nominal>
+	<lifetime>14400</lifetime>
+	<restock>180</restock>
+	<min>25</min>
+	<quantmin>30</quantmin>
+	<quantmax>100</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<tag name="shelves"/>
+	<usage name="Military"/>
+	<value name="Tier2"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFU_Ammo_127x55mm">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_Ammo_45_70mm">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_Ammo_300ACC">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_Ammo_408Chey">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_Ammo_50Cal">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- AMMO -->
+<!-- MAGS -->
+<type name="SNAFUM24_Mag">
+	<nominal>2</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>0</quantmin>
+	<quantmax>100</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFU_AK12_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_AK308_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_PL14HQP_Mag">
+	<nominal>15</nominal>
+	<lifetime>7200</lifetime>
+	<restock>0</restock>
+	<min>10</min>
+	<quantmin>10</quantmin>
+	<quantmax>100</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Police"/>
+	<value name="Tier2"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFU_M1918A2_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_KAC_Mag">
+	<nominal>10</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>4</min>
+	<quantmin>5</quantmin>
+	<quantmax>80</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier2"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFUVSSK_5rdMag">
+	<nominal>0</nominal>
+	<restock>0</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_U100_Mag">
+	<nominal>5</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>2</min>
+	<quantmin>5</quantmin>
+	<quantmax>40</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<usage name="ContaminatedArea"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFURPD_100rdMag">
+	<nominal>5</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>2</min>
+	<quantmin>5</quantmin>
+	<quantmax>40</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<usage name="ContaminatedArea"/>
+	<value name="Tier4"/>
+</type>
+<type name="GCGN_VEPR_10rnd">
+	<nominal>30</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>15</min>
+	<quantmin>10</quantmin>
+	<quantmax>90</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Hunting"/>
+	<value name="Tier2"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Snafu_ScarH_25RND_Mag_BK">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_25RND_Mag_DKMC">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_25RND_Mag_OD">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_25RND_Mag_Snow">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_25RND_Mag_Tan">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_M110_Mag">
+	<nominal>5</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>2</min>
+	<quantmin>10</quantmin>
+	<quantmax>90</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFUHoneyBadger_30rdMag_Black">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUHoneyBadger_30rdMag_Tan">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUAPS_20rdMag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- ########################################## -->
+<type name="SNAFU_M60_100rdMag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- ########################################## -->
+<type name="SNAFUAlligator_5rdMag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_AWM_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUDVL10M2_5rdMag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUT5000_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_M300Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUASh12_20rdMag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_M82_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_pkp_250RND_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_M249_Mag">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- MAGS -->
+<!-- ADDITIONALS -->
+<type name="SNAFU_Bipod">
+	<nominal>5</nominal>
+	<lifetime>14400</lifetime>
+	<restock>0</restock>
+	<min>2</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+</type>
+<type name="SNAFUKivaari_338_Supp">
+	<nominal>1</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<tag name="shelves"/>
+	<usage name="ContaminatedArea"/>
+</type>
+<type name="SNAFU_AK_HG">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- ########################################## -->
+<type name="SNAFU_M60_ScopeMount">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_M60_Handguard_E4">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- ########################################## -->
+<type name="SNAFU_NPKPBIPOD">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_M249Bipod">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_M249HG">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_M249Grip">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_M249Stock">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- ADDITIONALS -->
+<!-- GUNS -->
+<type name="SNAFUM24_GUN">
+	<nominal>3</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+</type>
+<type name="GCGN_BenelliM4">
+	<nominal>4</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>2</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFU_AK103A">
+	<nominal>1</nominal>
+	<lifetime>28800</lifetime>
+	<restock>3600</restock>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFU_AK12A">
+	<nominal>1</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+</type>
+<type name="SNAFU_AK19">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_AK308">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_AEK545_Gun">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_PL14HQP">
+	<nominal>5</nominal>
+	<lifetime>7200</lifetime>
+	<restock>0</restock>
+	<min>2</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<tag name="shelves"/>
+	<usage name="Police"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFU_CZ805_Gun">
+	<nominal>1</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+</type>
+<type name="SNAFU_M1918A2">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_KAC_Gun">
+	<nominal>5</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFUVSSK">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFURPD">
+	<nominal>1</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="1"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_U100">
+	<nominal>1</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>0</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="1" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="ContaminatedArea"/>
+</type>
+<type name="SNAFUMarlin1895">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="HK416_Gun">
+	<nominal>3</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFUMk12">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_VEPR">
+	<nominal>20</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>8</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Hunting"/>
+	<value name="Tier2"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFU_M48">
+	<nominal>45</nominal>
+	<lifetime>28800</lifetime>
+	<restock>0</restock>
+	<min>30</min>
+	<quantmin>0</quantmin>
+	<quantmax>80</quantmax>
+	<cost>100</cost>
+	<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Town"/>
+	<usage name="Village"/>
+	<usage name="Hunting"/>
+	<value name="Tier3"/>
+	<value name="Tier4"/>
+</type>
+<type name="Snafu_ScarH_Black_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_DKMC_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_OD_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_Snow_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_ScarH_Tan_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_M110_Green">
+	<nominal>2</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+	<usage name="Military"/>
+	<value name="Tier4"/>
+</type>
+<type name="SNAFUHoneyBadger_Black">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUHoneyBadger_Tan">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUAPS">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- ########################################## -->
+<type name="SNAFU_M60">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- ########################################## -->
+<type name="SNAFUAlligator">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_AWM_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUDVL10M2">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUT5000_Dkmcc_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFU_M300Green">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="SNAFUASh12">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_M82_Barret">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="Snafu_pkp_Black_GUN">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<type name="GCGN_M249">
+	<nominal>0</nominal>
+	<restock>1800</restock>
+	<lifetime>7200</lifetime>
+	<min>1</min>
+	<quantmin>-1</quantmin>
+	<quantmax>-1</quantmax>
+	<cost>100</cost>
+	<flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+	<category name="weapons"/>
+</type>
+<!-- GUNS -->
+<!-- WEAPONS -->
 <!-------------------------------------------------------------------------------------------------------->
 <!-- MODS -->

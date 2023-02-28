@@ -1,0 +1,651 @@
+<!-- MODS -->
+<type name="CrSk_BMW_525i_E34">
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_1_1" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_2_1" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_1_2" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_2_2" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_kapot" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_bagazhnik" chance="1.00" />
+	</attachments>
+</type>
+<type name="CrSk_BMW_525i_E34_Black">
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_koleso_style5" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_1_1_black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_2_1_black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_1_2_black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_dver_2_2_black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_kapot_black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="BMWE34_bagazhnik_black" chance="1.00" />
+	</attachments>
+</type>
+<type name="CrSk_VAZ_2107">
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_1" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_1" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_2" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_2" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_kapot" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_bagazhnik" chance="1.00" />
+	</attachments>
+</type>
+<type name="CrSk_VAZ_2107_Black">
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_1_Black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_1_Black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_2_Black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_2_Black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_kapot_Black" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_bagazhnik_Black" chance="1.00" />
+	</attachments>
+</type>
+<type name="CrSk_VAZ_2107_Beige">
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_1_Beige" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_1_Beige" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_2_Beige" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_2_Beige" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_kapot_Beige" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_bagazhnik_Beige" chance="1.00" />
+	</attachments>
+</type>
+<type name="CrSk_VAZ_2107_White">
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_koleso" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_1_White" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_1_White" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_1_2_White" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_dver_2_2_White" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_kapot_White" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="VAZ2107_bagazhnik_White" chance="1.00" />
+	</attachments>
+</type>
+<type name="TF_UAZ3151_Green">
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Driver_Green" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_CoDriver_Green" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo1_Green" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo2_Green" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Hood_Green" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Trunk_Green" chance="1.00" />
+	</attachments>
+</type>
+<type name="TF_UAZ3151_ChDKZ">
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Driver_ChDKZ" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_CoDriver_ChDKZ" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo1_ChDKZ" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo2_ChDKZ" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Hood_ChDKZ" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Trunk_ChDKZ" chance="1.00" />
+	</attachments>
+</type>
+<type name="TF_UAZ3151_CDF">
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Driver_CDF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_CoDriver_CDF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo1_CDF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo2_CDF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Hood_CDF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Trunk_CDF" chance="1.00" />
+	</attachments>
+</type>
+<type name="TF_UAZ3151_AFRF">
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Wheel" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarRadiator" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SparkPlug" chance="0.60" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HeadlightH7" chance="0.40" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Driver_AFRF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_CoDriver_AFRF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo1_AFRF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Cargo2_AFRF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Hood_AFRF" chance="1.00" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="TF_UAZ3151_Doors_Trunk_AFRF" chance="1.00" />
+	</attachments>
+</type>
+<type name="Helipolice_green">
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+</type>
+<type name="Helipolice_SIB4">
+	<attachments chance="1.00">
+		<item name="CarBattery" chance="0.60" />
+	</attachments>
+</type>
+<type name="SNAFUM24_GUN">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="1.00">
+		<item name="SNAFU_Bipod" chance="0.3" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SNAFUM24_Mag" chance="0.6" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="HuntingOptic" chance="0.5" />
+		<item name="ACOGOptic_6x" chance="0.2" />
+	</attachments>
+</type>
+<type name="SNAFU_AK103A">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.5">
+		<item name="PSO1Optic" chance="0.33" />
+		<item name="KashtanOptic" chance="0.33" />
+		<item name="KobraOptic" chance="0.34" />
+	</attachments>
+	<attachments chance="0.6">
+		<item name="Mag_AKM_30Rnd" chance="1.00" />
+	</attachments>
+</type>
+<type name="SNAFU_AK12A">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="1.00">
+		<item name="AK74_WoodBttstck" chance="0.5" />
+		<item name="AK_PlasticBttstck" chance="0.5" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="SNAFU_AK_HG" chance="1.00" />
+	</attachments>
+	<attachments chance="0.6">
+		<item name="ACOGOptic" chance="0.50" />
+		<item name="ReflexOptic" chance="0.5" />
+	</attachments>
+	<attachments chance="0.60">
+		<item name="Mag_AK74_30Rnd" chance="1.00" />
+	</attachments>
+</type>
+<type name="SNAFU_PL14HQP">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.20">
+		<item name="PistolSuppressor" chance="1.00" />
+	</attachments>
+	<attachments chance="0.10">
+		<item name="TLRLight" chance="1.00" />
+	</attachments>
+	<attachments chance="0.15">
+		<item name="FNP45_MRDSOptic" chance="1.00" />
+	</attachments>
+	<attachments chance="0.90">
+		<item name="SNAFU_PL14HQP_Mag" chance="1.00" />
+	</attachments>
+</type>
+<type name="SNAFU_CZ805_Gun">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.20">
+		<item name="UniversalLight" chance="1.00" />
+	</attachments>
+	<attachments chance="0.6">
+		<item name="ACOGOptic" chance="0.50" />
+		<item name="ReflexOptic" chance="0.5" />
+	</attachments>
+	<attachments chance="0.60">
+		<item name="Mag_STANAG_30Rnd" chance="1.00" />
+	</attachments>
+</type>
+<type name="SNAFU_KAC_Gun">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.20">
+		<item name="UniversalLight" chance="1.00" />
+	</attachments>
+	<attachments chance="0.6">
+		<item name="ACOGOptic" chance="0.50" />
+		<item name="ReflexOptic" chance="0.5" />
+	</attachments>
+	<attachments chance="0.75">
+		<item name="SNAFU_KAC_Mag" chance="1.00" />
+	</attachments>
+</type>
+<type name="SNAFURPD">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.60">
+		<item name="SNAFURPD_100rdMag" chance="1.00" />
+	</attachments>
+</type>
+<type name="SNAFU_U100">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.60">
+		<item name="SNAFU_U100_Mag" chance="1.00" />
+	</attachments>
+</type>
+<type name="HK416_Gun">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.20">
+		<item name="UniversalLight" chance="1.00" />
+	</attachments>
+	<attachments chance="0.6">
+		<item name="ACOGOptic" chance="0.50" />
+		<item name="ReflexOptic" chance="0.5" />
+	</attachments>
+	<attachments chance="0.60">
+		<item name="Mag_STANAG_30Rnd" chance="1.00" />
+	</attachments>
+</type>
+<type name="GCGN_VEPR">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.2">
+		<item name="PSO1Optic" chance="1.0" />
+	</attachments>
+	<attachments chance="0.60">
+		<item name="GCGN_VEPR_10rnd" chance="1.00" />
+	</attachments>
+</type>
+<type name="SNAFU_M48">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="0.6">
+		<item name="PUScopeOptic" chance="1.0" />
+	</attachments>
+</type>
+<type name="GCGN_M110_Green">
+	<damage min="0.45" max="0.85" />
+	<attachments chance="1.00">
+		<item name="SNAFU_Bipod" chance="0.3" />
+	</attachments>
+	<attachments chance="1.00">
+		<item name="GCGN_M110_Mag" chance="0.6" />
+	</attachments>
+	<attachments chance="0.7">
+		<item name="HuntingOptic" chance="0.7" />
+		<item name="ACOGOptic_6x" chance="0.2" />
+		<item name="ACOGOptic" chance="0.1" />
+	</attachments>
+	<attachments chance="0.20">
+		<item name="UniversalLight" chance="1.00" />
+	</attachments>
+</type>
+<!-- MODS -->
